@@ -1,0 +1,32 @@
+/* Disable CSS3 animation to reduce CPU use */
+* {
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+}
+
+/* Move 'Outlook' button and menu to the right to avoid obstructing the window buttons */
+div#owaBranding_container {
+    flex: 1 1 auto;
+    min-width: auto;
+    position: relative;
+    left: 90px;
+}
+
+button#O365_MainLink_NavMenu {
+    position: relative;
+    left: 90px;
+}
+
+/* Make header draggable */
+header {
+    -webkit-app-region: drag;
+}
+
+/* Make any buttons inside the header not draggable */
+header button {
+    -webkit-app-region: no-drag;
+}
+
