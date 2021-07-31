@@ -9,7 +9,7 @@ The official Outlook Mac app from Microsoft lacks a number of features that its 
 Install [Nativefier](https://github.com/nativefier/nativefier) using the [instructions](https://github.com/nativefier/nativefier#installation) in the official repository.
 
 ### (2) Download files
-Download [stylesheet.css](https://github.com/ghzliahlam/outlook-web/blob/main/stylesheet.css), [stylesheet.js](https://github.com/ghzliahlam/outlook-web/blob/main/stylesheet.js) (intentionally left empty for future customisation), and [icon.icns](https://github.com/ghzliahlam/outlook-web/blob/main/icon.icns) (icon belongs to [© Microsoft 2021](https://www.microsoft.com/en-us/legal)) and put the files in the home directory.
+Download [stylesheet.css](https://github.com/gajzl/outlook-web/blob/main/stylesheet.css), [stylesheet.js](https://github.com/gajzl/outlook-web/blob/main/stylesheet.js) (intentionally left empty for future customisation), and [icon.icns](https://github.com/gajzl/outlook-web/blob/main/icon.icns) (icon belongs to [© Microsoft 2021](https://www.microsoft.com/en-us/legal)) and put the files in the home directory.
 
 ### (3) Use Nativefier to build the app
 Enter the command below in the terminal:
