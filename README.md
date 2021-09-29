@@ -3,6 +3,8 @@ A custom version of Microsoft Outlook app ([© Microsoft 2021](https://www.micro
 
 The official Outlook Mac app from Microsoft lacks a number of features that its [web version](https://outlook.live.com) has—at least for now, such as [rules](https://support.microsoft.com/en-us/office/how-to-set-up-rules-in-outlook-75ab719a-2ce8-49a7-a214-6d62b67cbd41) and [calendar icons](https://answers.microsoft.com/en-us/outlook_com/forum/all/microsoft-outlook-calendar-icons/938cefea-906e-45c5-bbfd-69f00dc0bf92).
 
+***Note: I initially created this due to the macOS Outlook App (with the new interface) not supporting [rules](https://support.microsoft.com/en-us/office/how-to-set-up-rules-in-outlook-75ab719a-2ce8-49a7-a214-6d62b67cbd41). I'm archiving this repository because an update adding this particular feature was released.***
+
 ## Building Instructions
 
 ### (1) Install Nativefier
